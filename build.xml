@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+
+<project name="portal" basedir="." xmlns:antelope="antlib:ise.antelope.tasks">
+	<echo>Installing liferay-portal.war.</echo>
+</project>
